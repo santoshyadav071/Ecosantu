@@ -1,0 +1,45 @@
+{
+    "sections": [
+      {
+        "title": "HELP",
+        "links": [
+          { "text": "ChatUs", "href": "#" },
+          { "text": "720502579", "href": "#" },
+          { "text": "help@allbirds.com", "href": "#" },
+          { "text": "Return/Exchange", "href": "#" },
+          { "text": "faq/Contact", "href": "#" },
+          { "text": "Afterpay", "href": "#" }
+        ]
+      },
+      {
+        "title": "SHOP",
+        "links": [
+          { "text": "Men shops", "href": "#" },
+          { "text": "Women shops", "href": "#" },
+          { "text": "Mens Apreal", "href": "#" },
+          { "text": "Women Apreal", "href": "#" },
+          { "text": "Socks", "href": "#" },
+          { "text": "Gift Card", "href": "#" },
+          { "text": "Refer a Friend", "href": "#" }
+        ]
+      },
+      {
+        "title": "COMPANY",
+        "links": [
+          { "text": "Our store", "href": "#" },
+          { "text": "Our story", "href": "#" },
+          { "text": "Our Material", "href": "#" },
+          { "text": "Sustainability", "href": "#" },
+          { "text": "Shoes care", "href": "#" },
+          { "text": "Affiliate", "href": "#" },
+          { "text": "BulkOrders", "href": "#" },
+          { "text": "Careers", "href": "#" },
+          { "text": "Press", "href": "#" },
+          { "text": "California Transparency Act", "href": "#" },
+          { "text": "Community Offer", "href": "#" },
+          { "text": "Our Blog", "href": "#" }
+        ]
+      }
+    ]
+  }
+  

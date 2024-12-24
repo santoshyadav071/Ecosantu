@@ -1,0 +1,52 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "title": "Holiday Special Bundle",
+      "description": "Get 20% off on selected items",
+      "image": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?ixlib=rb-4.0.3",
+      "price": 99.99,
+      "originalPrice": 129.99
+    },
+    {
+      "id": 2,
+      "title": "Winter Collection", 
+      "description": "Limited time offer on winter wear",
+      "image": "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?ixlib=rb-4.0.3",
+      "price": 79.99,
+      "originalPrice": 99.99
+    },
+    {
+      "id": 3,
+      "title": "Christmas Gift Set",
+      "description": "Perfect holiday gift bundle with free wrapping",
+      "image": "https://images.unsplash.com/photo-1512909006721-3d6018887383?ixlib=rb-4.0.3",
+      "price": 149.99,
+      "originalPrice": 189.99
+    },
+    {
+      "id": 4,
+      "title": "New Year Collection",
+      "description": "Start your year with amazing deals",
+      "image": "https://images.unsplash.com/photo-1514483127413-f72f273478c3?ixlib=rb-4.0.3",
+      "price": 129.99,
+      "originalPrice": 159.99
+    },
+    {
+      "id": 5,
+      "title": "Family Package Deal",
+      "description": "Special holiday discount for family shopping",
+      "image": "https://images.unsplash.com/photo-1545622783-b3e021430fee?ixlib=rb-4.0.3",
+      "price": 199.99,
+      "originalPrice": 249.99
+    },
+    {
+      "id": 6,
+      "title": "Premium Gift Box",
+      "description": "Luxury items at special holiday prices",
+      "image": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-4.0.3",
+      "price": 169.99,
+      "originalPrice": 219.99
+    }
+  ]
+}

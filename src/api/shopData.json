@@ -1,0 +1,58 @@
+{
+  "categories": [
+    { "id": "all", "name": "All Products" },
+    { "id": "shoes", "name": "Shoes" },
+    { "id": "apparel", "name": "Apparel" },
+    { "id": "accessories", "name": "Accessories" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Men's Wool Runner",
+      "category": "shoes",
+      "price": 98.00,
+      "image": "/Images/shop1.webp",
+      "description": "Comfortable everyday sneakers made with premium merino wool"
+    },
+    {
+      "id": 2,
+      "name": "Women's Tree Dasher",
+      "category": "shoes",
+      "price": 125.00,
+      "image": "/Images/shop2.webp",
+      "description": "Performance running shoes made with eucalyptus tree fiber"
+    },
+    {
+      "id": 3,
+      "name": "womens Running Shirt",
+      "category": "apparel",
+      "price": 45.00,
+      "image": "/Images/light1.webp",
+      "description": "Lightweight and breathable running shirt for maximum comfort"
+    },
+    {
+      "id": 4,
+      "name": "Women's Leggings",
+      "category": "apparel",
+      "price": 65.00,
+      "image": "/Images/laggi1.webp",
+      "description": "High-performance leggings perfect for running or yoga"
+    },
+    {
+      "id": 5,
+      "name": "Running Cap",
+      "category": "accessories",
+      "price": 25.00,
+      "image": "/Images/camp.webp",
+      "description": "Lightweight running cap with moisture-wicking technology"
+    },
+    {
+      "id": 6,
+      "name": "Sports Socks",
+      "category": "accessories",
+      "price": 15.00,
+      "image": "/Images/navy.webp",
+      "description": "Cushioned sports socks for enhanced comfort"
+    }
+  ]
+}

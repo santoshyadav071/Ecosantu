@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Wool Runner Go",
+        "description": "Sublimely Soft, Everyday Elevated.",
+        "bgImage": "/Images/card1image.avif"
+    },
+    {
+        "id": 2,
+        "title": "Wool Runner Mizzle",
+        "description": "Weather-ready, Everyday Sneaker.",
+        "bgImage": "/Images/card2image.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Tree Topper",
+        "description": "Breezy High-Top Sneakers.",
+        "bgImage": "/Images/card3.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Early Access Sale Is On",
+        "description": "Start the season with 30% off bestselling shoes, online and in stores..",
+        "bgImage": "/Images/cardnew.avif"
+    },
+    {
+        "id": 5,
+        "title": "Gifts Under $100",
+        "description": "Cozy Gifts At Comfy Prices.",
+        "bgImage": "/Images/cardnew1.avif"
+    },
+    {
+        "id": 6,
+        "title": "Gift Cards",
+        "description": "Gift Cards.",
+        "bgImage": "/Images/cardnew2.avif"
+    }
+   
+]

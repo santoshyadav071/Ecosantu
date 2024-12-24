@@ -1,0 +1,105 @@
+{
+  "sections": [
+    {
+      "title": "Shoes",
+      "items": [
+        {
+          "name": "Everyday Sneaker",
+          "url": "/MensRunner"
+        },
+        {
+          "name": "Active Shoes", 
+          "url": "/action"
+        },
+        {
+          "name": "Water-Repellent Sneakers",
+          "url": "/water"
+        },
+        {
+          "name": "Slip-Ons",
+          "url": "/slip"
+        },
+       
+        {
+          "name": "Hiking",
+          "url": "/High"
+        },
+        {
+          "name": "Clearance",
+          "url": "/Saly"
+        },
+        {
+          "name": "Shop all",
+          "url": "/ShopAll"
+        }
+      ]
+    },
+    {
+      "title": "Bestsellers",
+      "items": [
+        {
+          "name": "Tree Runner",
+          "url": "/shop/tree-runner"
+        },
+        {
+          "name": "Wool Runner",
+          "url": "/woolrunner"
+        },
+        {
+          "name": "Wool Runner Go",
+          "url": "/shop/wool-runner-go"
+        },
+  
+        {
+          "name": "Tree Glider",
+          "url": "/shop/tree-glider"
+        },
+        {
+          "name": "Wool Runner Mizzle",
+          "url": "/shop/wool-runner-mizzle"
+        },
+        {
+          "name": "Tree Dasher 2",
+          "url": "/shop/tree-dasher-2"
+        }
+  
+       
+      ]
+    },
+    {
+      "title": "Apparel & More",
+      "items": [
+      
+        {
+          "name": "Tees",
+          "url": "/tees"
+        },
+        {
+          "name": "Underwear",
+          "url": "/underwear"
+        },
+        {
+          "name": "Bags",
+          "url": "/bags"
+        },
+        {
+          "name": "Hats",
+          "url": "/hats"
+        },
+        {
+          "name": "Insoles",
+          "url": "/insoles"
+        },
+        {
+          "name": "Lace Kits",
+          "url": "/lacekits"
+        },
+        {
+          "name": "Gift Cards",
+          "url": "/gift-cards"
+        }
+      ]
+    }
+
+  ]
+}

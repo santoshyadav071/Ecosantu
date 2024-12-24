@@ -1,0 +1,58 @@
+import CozyData from "../../api/CozyData.json";
+import { Link } from "react-router-dom"; 
+
+export const CozyCards = ({CozyCards}) => {
+  return (
+    <section className="bg-white w-full py-12">
+      <div className="px-4">
+        <h1 className="font-bold text-2xl">Cozy Crew Socks</h1>
+        <p className="text-gray-600">
+        A crew sock with a long-lasting footbed and mid-calf height that will keep you comfortable, warm, and cozy at home or on the go...
+        </p>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 px-4 py-6">
+        {CozyData.map((item) => (
+          <Link
+            key={item.id}
+            to={`/shop/${item.id}`} 
+            className="relative bg-gray-100 p-4 rounded-lg shadow hover:shadow-lg transition"
+          >
+            {/* Product Image */}
+            <img
+              src={item.image}
+              alt={item.name}
+              className="w-full h-40 object-cover rounded"
+            />
+
+            {/* Product Info */}
+            <h2 className="font-semibold text-lg mt-4">{item.name}</h2>
+            <p className="text-sm text-gray-500">{item.color}</p>
+            <div className="flex items-center justify-between mt-2">
+              <span className="font-bold text-green-500">{item.price}</span>
+              <span className="line-through text-gray-400 text-sm">
+                {item.originalPrice}
+              </span>
+            </div>
+
+            {/* Sizes (Visible on Hover) */}
+            <div className="relative mt-4 group">
+              <div className="absolute inset-0 bg-white border border-gray-200 text-black opacity-0 group-hover:opacity-100 flex flex-col items-center justify-center transition-opacity duration-300 rounded p-2 max-h-40">
+                <div className="grid grid-cols-2 gap-2 w-full">
+                  {Object.entries(item.sizes).map(([key, value]) => (
+                    <div
+                      key={key}
+                      className="text-center text-sm font-medium bg-black text-white py-1 px-2 rounded"
+                    >
+                      <span>{key}: {value}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+};

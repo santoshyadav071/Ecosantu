@@ -1,0 +1,27 @@
+{
+  "mensBoxerBrief": {
+    "name": "Allgood Cotton Cap",
+    "price": 28,
+    "images": [
+      "/Images/hat1.avif",
+      "/Images/hat2.avif",
+      "/Images/hat2.avif",
+      "/Images/hat3.webp"
+     
+    ],
+    "colors": {
+      "Natural Black": "#000000",
+      "Chasm Teal": "#008080",
+      "Medium Grey": "#808080",
+      "Natural White": "#FFFFFF"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "details": [
+      "Made with sustainable materials",
+      "Moisture-wicking fabric",
+      "Breathable mesh zones",
+      "No-roll waistband",
+      "Available in multiple colors"
+    ]
+  }
+}

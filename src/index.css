@@ -1,0 +1,169 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    height: 100%; /* Ensure the body is tall enough */
+    overflow: visible; 
+    
+  }
+  
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+body{
+    font-family: "Poppins", serif;
+}
+.slick-prev,
+.slick-next {
+  z-index: 2;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  color: #333;
+}
+
+.slick-prev {
+  left: 10px;
+}
+
+.slick-next {
+  right: 10px;
+}
+
+.product-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 40px;
+}
+
+.product-left {
+  flex: 1;
+}
+
+.product-right {
+  flex: 1;
+}
+
+.main-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.product-title {
+  font-size: 32px;
+  margin: 10px 0;
+}
+
+.product-badge {
+  background-color: #f0f0f0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.product-price {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.size-options {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.size-btn {
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: none;
+  cursor: pointer;
+}
+
+.size-btn:hover {
+  background-color: #f5f5f5;
+}
+
+.product-actions {
+  margin: 20px 0;
+  display: flex;
+  gap: 10px;
+}
+
+.add-to-cart-btn {
+  padding: 15px 30px;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.find-store-btn {
+  padding: 15px 30px;
+  background-color: white;
+  border: 1px solid #000;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.shipping-info {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
+
+.breadcrumb {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.product-rating {
+  margin: 15px 0;
+}
+
+.stars {
+  color: #ffd700;
+}
+
+.review-count {
+  color: #666;
+  margin-left: 10px;
+}
+
+.size-note {
+  font-size: 14px;
+  color: #666;
+  margin-top: 10px;
+}
+.thumbnail-images {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.thumbnail:hover {
+  border-color: #000;
+}
+

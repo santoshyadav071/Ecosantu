@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Trino® Cozy Crew",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "stromy gray",
+      "price": "$5",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/cozy1.avif"
+    },
+    {
+      "id": 2,
+      "name": "Trino® Cozy Crewk",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Sailore blue",
+      "price": "$5",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/cozy2.avif"
+    },
+    {
+      "id": 3,
+      "name": "Trino® Cozy Crew",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Stony Moss",
+      "price": "$5",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/cozy3.avif"
+    },
+    {
+      "id": 4,
+      "name": "Trino® Cozy Crew",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Calim Acai",
+      "price": "$9",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/cozy4.avif"
+    },
+    {
+      "id": 5,
+      "name": "Anytime No Show Sock",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Blizzard/Medium Grey/Natural Black",
+      "price": "$9",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/3pack1.avif"
+    },
+    {
+      "id": 6,
+      "name": "Anytime No Show Sock",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Blizzard/Medium Grey/Natural Black",
+      "price": "$9",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/3pack2.avif"
+    },
+    {
+      "id": 7,
+      "name": "Anytime No Show Sock",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Blizzard/Medium Grey/Natural Black",
+      "price": "$9",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/3pack3.avif"
+    },
+    {
+      "id": 8,
+      "name": "Anytime No Show Sock",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Blizzard/Medium Grey/Natural Black",
+      "price": "$9",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/3pack1.avif"
+    }
+]

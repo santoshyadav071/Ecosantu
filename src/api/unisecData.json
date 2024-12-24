@@ -1,0 +1,64 @@
+{
+    "category": "Unisex Graphic Tees",
+    "description": "An everyday tee that fits like a classic and feels like a dream—one that gets better and better over time.",
+    "products": [
+      {
+        "id": "mens-merino-tee-chasm-teal",
+        "name": "Unisex Graphic Tee",
+        "color": "Chasm Teal",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/unisec1.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-black",
+        "name": "Unisex Graphic Tee",
+        "color": "Natural Black",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/unisec2.avif"
+      },
+      {
+        "id": "mens-merino-tee-medium-grey",
+        "name": "Unisex Graphic Tee",
+        "color": "Medium Grey",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/unisec3.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Unisex Graphic Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/unisec4.avif"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Unisex Graphic Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/unisec5.avif"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Unisex Graphic Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/unisec4.avif"
+      }
+          
+    ]
+}
+  

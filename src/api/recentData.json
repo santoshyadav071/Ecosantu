@@ -1,0 +1,67 @@
+
+[
+    {
+      "id": 1,
+      "name": "Mens Curiers",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "stromy gray",
+      "price": "$5",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/recent1.webp"
+    },
+    {
+      "id": 1,
+      "name": "Men tri pipers",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Sailore blue",
+      "price": "$5",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/recent2.webp"
+    },
+    {
+      "id": 1,
+      "name": "Mens whol Runner Go",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Stony Moss",
+      "price": "$5",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/recent3.webp"
+    },
+    {
+      "id": 1,
+      "name": "Mens whol Runner Go",
+      "description": "Light, breathable and made to move and groove without budging.",
+      "color": "Calim Acai",
+      "price": "$9",
+      "originalPrice": "$14",
+      "sizes": {
+        "S": "W5-7",
+        "M": "W8-10 / M8",
+        "L": "W11 / M9-12",
+        "XL": "M13-14"
+      },
+      "image": "/Images/recent4.webp"
+    }
+   
+   
+    
+  ]
+  

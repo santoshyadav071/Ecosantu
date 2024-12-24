@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic White Sneakers", 
+      "price": 89.99,
+      "category": "shoes",
+      "description": "Minimalist design sneakers made from sustainable materials",
+      "image": "/Images/sneakr1.avif",
+      "colors": ["White", "Black", "Gray"]
+    },
+    {
+      "id": 2,
+      "name": "Organic Cotton T-Shirt",
+      "price": 29.99,
+      "category": "apparel", 
+      "description": "Soft and breathable organic cotton basic tee",
+      "image": "/Images/tshirtja.webp",
+      "colors": ["White", "Black", "Navy", "Green"]
+    },
+    {
+      "id": 3,
+      "name": "Leather Watch",
+      "price": 149.99,
+      "category": "accessories",
+      "description": "Classic timepiece with genuine leather strap",
+        "image": "/Images/watch.jpg",
+      "colors": ["Brown", "Black"]
+    }
+  ]
+}

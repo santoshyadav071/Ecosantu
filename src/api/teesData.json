@@ -1,0 +1,148 @@
+{
+    "category": "Short Sleeve Tees/long Sleeve Tees",
+    "description": "Breathable classic tees for everyday wear and light workouts",
+    
+    "products": [
+      {     
+        "id": "mens-merino-tee-chasm-teal",
+        "name": "Men's Soft Merino Tee",
+        "color": "Chasm Teal",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/teess.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-black",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural Black",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/teesss.avif"
+      },
+      {
+        "id": "mens-merino-tee-medium-grey",
+        "name": "Men's Soft Merino Tee",
+        "color": "Medium Grey",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/teessss.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/teesb.avif"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/t.avif"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/tt.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/tshirt1.avif"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/tshirt2.avif"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/tshirt3.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/longshirt7.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/longtshirt2.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/longtshirt3.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/longtshirt4.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/longtshirt5.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Soft Merino Tee",
+        "color": "Natural White",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/longtshirt8.avif"
+      }
+      
+    ]
+}
+  

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Wool Runner",
+    "image": "/Images/xx.avif",
+    "price": "$98",
+    "originalPrice": "$120"
+  },
+  {
+    "id": 2, 
+    "name": "Tree Runner",
+    "image": "/Images/xxx.avif",
+    "price": "$105",
+    "originalPrice": "$130"
+  },
+  {
+    "id": 3,
+    "name": "Mizzle Runner",
+    "image": "/Images/xxxx.avif", 
+    "price": "$115",
+    "originalPrice": "$140"
+  },
+  {
+    "id": 3,
+    "name": "Mizzle Runner",
+    "image": "/Images/x.avif", 
+    "price": "$115",
+    "originalPrice": "$140"
+  },
+  {
+    "id": 3,
+    "name": "Mizzle Runner",
+    "image": "/Images/xy.avif", 
+    "price": "$115",
+    "originalPrice": "$140"
+  },
+  {
+    "id": 3,
+    "name": "Mizzle Runner",
+    "image": "/Images/xy1.avif", 
+    "price": "$115",
+    "originalPrice": "$140"
+  },
+  {
+    "id": 3,
+    "name": "Mizzle Runner",
+    "image": "/Images/xy2.avif", 
+    "price": "$115",
+    "originalPrice": "$140"
+  },
+  {
+    "id": 3,
+    "name": "Mizzle Runner",
+    "image": "/Images/xy3.avif", 
+    "price": "$115",
+    "originalPrice": "$140"
+  }
+]

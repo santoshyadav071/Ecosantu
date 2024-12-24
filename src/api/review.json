@@ -1,0 +1,46 @@
+{
+  "averageRating": 4.7,
+  "totalReviews": 9778,
+  "reviews": [
+    {
+      "id": 1,
+      "typicalSize": "10",
+      "sizePurchased": "10",
+      "activityLevel": "Commuting, Running Errands, Walking",
+      "title": "Great Casual Shoe",
+      "content": "Fits like a sock. With the treads I wouldn't go running with these but great for walking and casual wear."
+    },
+    {
+      "id": 2,
+      "typicalSize": "9",
+      "sizePurchased": "9",
+      "activityLevel": "Daily Wear, Office Work",
+      "title": "Comfortable All Day",
+      "content": "Perfect for long days at work. Very breathable and lightweight."
+    },
+    {
+      "id": 3,
+      "typicalSize": "11",
+      "sizePurchased": "11.5",
+      "activityLevel": "Gym, Light Exercise",
+      "title": "Good for Light Workouts",
+      "content": "I use these at the gym and they're holding up well. Great grip on various surfaces."
+    },
+    {
+      "id": 4,
+      "typicalSize": "8",
+      "sizePurchased": "8",
+      "activityLevel": "Travel, Shopping",
+      "title": "Perfect Travel Companion",
+      "content": "These shoes are so light and packable. Perfect for traveling!"
+    },
+    {
+      "id": 5,
+      "typicalSize": "10.5",
+      "sizePurchased": "10",
+      "activityLevel": "Weekend Wear, Casual Outings",
+      "title": "Stylish and Comfortable",
+      "content": "Get lots of compliments on these. They look great with everything."
+    }
+  ]
+}

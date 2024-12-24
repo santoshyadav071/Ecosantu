@@ -1,0 +1,28 @@
+{
+  "bagProducts": [
+    {
+      "id": 1,
+      "name": "Daypack",
+      "price": 98,
+      "description": "Perfect for daily commutes and light travel",
+      "colors": ["Black", "Grey", "Navy"],
+      "images": ["/Images/thumb1bag.avif", "/Images/thumb2bag.avif", "/Images/thumb2bag.avif"]
+    },
+    {
+      "id": 2, 
+      "name": "Weekender Bag",
+      "price": 145,
+      "description": "Ideal for short trips and weekend getaways",
+      "colors": ["Black", "Olive", "Brown"],
+      "images": ["/Images/bag1.avif", "/Images/bag2.avif", "/Images/bag3.avif"]
+    },
+    {
+      "id": 3,
+      "name": "Tote Bag",
+      "price": 75,
+      "description": "Stylish and practical everyday carry",
+      "colors": ["Natural", "Black", "Navy"],
+      "images": ["/Images/bag4.avif", "/Images/bag3.avif", "/Images/bag2.avif"]
+    }
+  ]
+}

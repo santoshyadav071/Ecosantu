@@ -1,0 +1,69 @@
+{
+    "category": "Men's Insoles",
+    "description": "Get the spring back in your step with our high cushion, merino-lined replacement insoles.",
+    
+    "products": [
+      {     
+        "id": "mens-merino-tee-chasm-teal",
+        "name": "Men's Merino Insoles",
+        "color": "Natural grey",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/insole2.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-black",
+        "name": "Men's Merino Insoles",
+        "color": "Natural grey",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/insole3.avif"
+      },
+      {
+        "id": "mens-merino-tee-medium-grey",
+        "name": "Men's Merino Insoles",
+        "color": "Medium Dacer insoles",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/insole4.avif"
+      },
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Merino Insoles",
+        "color": "Natural black",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/insole5.jpeg"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Merino Insoles",
+        "color": "Natural blue",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/insole6.jpeg"
+      },
+     
+      {
+        "id": "mens-merino-tee-natural-white",
+        "name": "Men's Merino Insoles",
+        "color": "Natural blue",
+        "price": 45,
+        "salePrice": null,
+        "material": "Merino",
+        "imageUrl": "/Images/insole7.jpeg"
+      }
+     
+     
+     
+      
+      
+    ]
+}
+  
